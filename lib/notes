@@ -1,0 +1,11 @@
+There were somethings that became clearer to me
+
+
+-- State Notifier is a flutter class, it works directly from Flutter and helps us to listen to any changes in the state of our widgets. 
+
+-- Using the Consumer Widget which is a descendant of the ConsumerWidget Widget which in turn is also from ConsumerStatefulWidget Widget, 
+-- and then eventually extends Stateful widget, we can listen to changes in our application without rebuilding the entire application
+-- overall avoid listening to a provider in the build process.
+
+-- Extension are wild smh, IDK how he do this extension to work in the dart file without being invoked. I mean, by the time I try to reproduce the 
+-- code, I should have learnt it then sha
